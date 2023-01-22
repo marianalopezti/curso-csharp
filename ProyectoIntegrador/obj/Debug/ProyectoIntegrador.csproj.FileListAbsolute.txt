@@ -1,0 +1,8 @@
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe.config
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.pdb
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
+C:\Users\maria\Desktop\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
